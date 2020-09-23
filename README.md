@@ -1,4 +1,12 @@
 # SomaTriangulo
+## Aplicativo console .NET Framework. Desenvolvida lógica do problema em cima do TDD disponibilizado.
+
+### Tecnologias utilizadas:
+- .NET Framework 4.5.2: é uma iniciativa da empresa Microsoft, que visa uma plataforma única para desenvolvimento e execução de sistemas e aplicações. Todo e qualquer código gerado para .NET pode ser executado em qualquer dispositivo que possua um framework de tal plataforma.
+
+### Requisitos para a compilação do projeto:
+- Possuir instalada a IDE do visual studio ou semelhante.
+    > https://visualstudio.microsoft.com/pt-br/vs/ 
 
 ######    6
 ######   3 5
