@@ -8,7 +8,7 @@
 - Possuir instalada a IDE do visual studio ou semelhante.
     > https://visualstudio.microsoft.com/pt-br/vs/ 
 
-### Lógica problema desenvolvida
+# Lógica problema desenvolvida
 ######    6
 ######   3 5
 ######  9 7 1
